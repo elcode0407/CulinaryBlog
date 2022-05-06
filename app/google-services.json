@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716088600005",
+    "project_id": "culinaryblogapp",
+    "storage_bucket": "culinaryblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716088600005:android:aa2b741f19b9968ae717ac",
+        "android_client_info": {
+          "package_name": "com.elcode.culinaryblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716088600005-78slu0a1ds4a8doohktrcaq6dpt3gfm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPVNq1pFxP2NvU3NhtpffJ9yxXWFAPk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716088600005-78slu0a1ds4a8doohktrcaq6dpt3gfm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
